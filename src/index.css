@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 5%;
+}
+
+span{
+  margin: 10px
+}
+
+.deadline-input{
+  margin-right: 5px;
+}
